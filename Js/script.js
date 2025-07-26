@@ -47,7 +47,7 @@ let numeroB = parseInt(prompt("Ingrese un numero: "));
 let resultado = numeroA + numeroB
 document.writeln(resultado);*/
 
-let edad = parseInt(prompt("Ingrese su edad: "))
+/*let edad = parseInt(prompt("Ingrese su edad: "))
 
 if (edad >= 18) {
     alert("Sos mayor de edad.");
@@ -61,5 +61,44 @@ let nota = parseInt(prompt("Ingrese su primera nota: "))
 if (nota == 10) {
     alert("Excelente");
 } else if {
-    
-}
+    }*/
+
+/*let nombre = "Analía"
+let apellido = "Pérez"
+console.log(nombre + " " + apellido)
+edad = 35
+console.log(`Hola ${nombre} ${apellido}, si tenes ${edad} años, en el 2030 cumplís tus ${edad + 5}.`);*/
+
+/*let edad = prompt("Ingresa tu edad");
+
+if (isNaN(edad)) {
+    alert("¡Debes ingresar un número!");
+} else {
+    alert(`Tienes ${edad} años`);
+}*/
+
+/*let edad = prompt("Ingresa tu edad");
+
+if (edad >= 18) {
+    alert("¡Debes ingresar un número!");
+} else {
+    alert(`Tienes ${edad} años`);
+}*/
+
+
+// Repetición condicional While
+
+/*let iteracion = 1;
+
+while (iteracion <= 5) {
+    console.log(iteracion);
+    iteracion++;
+}*/
+
+
+
+/*let repeticion = 0; //Contador que se inicializa fuera del while
+
+while (repeticion <= 10) { // Condición de la repetición
+    console.log("2 x" + repeticion + " = " + repeticion )
+}*/
